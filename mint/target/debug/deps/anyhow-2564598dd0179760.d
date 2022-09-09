@@ -1,0 +1,15 @@
+/Users/air/Documents/programmingwork/blockchain/solana/rust-mint-nft/mint/target/debug/deps/anyhow-2564598dd0179760.rmeta: /Users/air/.cargo/registry/src/github.com-1ecc6299db9ec823/anyhow-1.0.64/src/lib.rs /Users/air/.cargo/registry/src/github.com-1ecc6299db9ec823/anyhow-1.0.64/src/backtrace.rs /Users/air/.cargo/registry/src/github.com-1ecc6299db9ec823/anyhow-1.0.64/src/chain.rs /Users/air/.cargo/registry/src/github.com-1ecc6299db9ec823/anyhow-1.0.64/src/context.rs /Users/air/.cargo/registry/src/github.com-1ecc6299db9ec823/anyhow-1.0.64/src/ensure.rs /Users/air/.cargo/registry/src/github.com-1ecc6299db9ec823/anyhow-1.0.64/src/error.rs /Users/air/.cargo/registry/src/github.com-1ecc6299db9ec823/anyhow-1.0.64/src/fmt.rs /Users/air/.cargo/registry/src/github.com-1ecc6299db9ec823/anyhow-1.0.64/src/kind.rs /Users/air/.cargo/registry/src/github.com-1ecc6299db9ec823/anyhow-1.0.64/src/macros.rs /Users/air/.cargo/registry/src/github.com-1ecc6299db9ec823/anyhow-1.0.64/src/ptr.rs /Users/air/.cargo/registry/src/github.com-1ecc6299db9ec823/anyhow-1.0.64/src/wrapper.rs
+
+/Users/air/Documents/programmingwork/blockchain/solana/rust-mint-nft/mint/target/debug/deps/anyhow-2564598dd0179760.d: /Users/air/.cargo/registry/src/github.com-1ecc6299db9ec823/anyhow-1.0.64/src/lib.rs /Users/air/.cargo/registry/src/github.com-1ecc6299db9ec823/anyhow-1.0.64/src/backtrace.rs /Users/air/.cargo/registry/src/github.com-1ecc6299db9ec823/anyhow-1.0.64/src/chain.rs /Users/air/.cargo/registry/src/github.com-1ecc6299db9ec823/anyhow-1.0.64/src/context.rs /Users/air/.cargo/registry/src/github.com-1ecc6299db9ec823/anyhow-1.0.64/src/ensure.rs /Users/air/.cargo/registry/src/github.com-1ecc6299db9ec823/anyhow-1.0.64/src/error.rs /Users/air/.cargo/registry/src/github.com-1ecc6299db9ec823/anyhow-1.0.64/src/fmt.rs /Users/air/.cargo/registry/src/github.com-1ecc6299db9ec823/anyhow-1.0.64/src/kind.rs /Users/air/.cargo/registry/src/github.com-1ecc6299db9ec823/anyhow-1.0.64/src/macros.rs /Users/air/.cargo/registry/src/github.com-1ecc6299db9ec823/anyhow-1.0.64/src/ptr.rs /Users/air/.cargo/registry/src/github.com-1ecc6299db9ec823/anyhow-1.0.64/src/wrapper.rs
+
+/Users/air/.cargo/registry/src/github.com-1ecc6299db9ec823/anyhow-1.0.64/src/lib.rs:
+/Users/air/.cargo/registry/src/github.com-1ecc6299db9ec823/anyhow-1.0.64/src/backtrace.rs:
+/Users/air/.cargo/registry/src/github.com-1ecc6299db9ec823/anyhow-1.0.64/src/chain.rs:
+/Users/air/.cargo/registry/src/github.com-1ecc6299db9ec823/anyhow-1.0.64/src/context.rs:
+/Users/air/.cargo/registry/src/github.com-1ecc6299db9ec823/anyhow-1.0.64/src/ensure.rs:
+/Users/air/.cargo/registry/src/github.com-1ecc6299db9ec823/anyhow-1.0.64/src/error.rs:
+/Users/air/.cargo/registry/src/github.com-1ecc6299db9ec823/anyhow-1.0.64/src/fmt.rs:
+/Users/air/.cargo/registry/src/github.com-1ecc6299db9ec823/anyhow-1.0.64/src/kind.rs:
+/Users/air/.cargo/registry/src/github.com-1ecc6299db9ec823/anyhow-1.0.64/src/macros.rs:
+/Users/air/.cargo/registry/src/github.com-1ecc6299db9ec823/anyhow-1.0.64/src/ptr.rs:
+/Users/air/.cargo/registry/src/github.com-1ecc6299db9ec823/anyhow-1.0.64/src/wrapper.rs:

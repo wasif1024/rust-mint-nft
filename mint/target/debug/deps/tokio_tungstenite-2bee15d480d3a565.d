@@ -1,0 +1,10 @@
+/Users/air/Documents/programmingwork/blockchain/solana/rust-mint-nft/mint/target/debug/deps/tokio_tungstenite-2bee15d480d3a565.rmeta: /Users/air/.cargo/registry/src/github.com-1ecc6299db9ec823/tokio-tungstenite-0.17.2/src/lib.rs /Users/air/.cargo/registry/src/github.com-1ecc6299db9ec823/tokio-tungstenite-0.17.2/src/compat.rs /Users/air/.cargo/registry/src/github.com-1ecc6299db9ec823/tokio-tungstenite-0.17.2/src/connect.rs /Users/air/.cargo/registry/src/github.com-1ecc6299db9ec823/tokio-tungstenite-0.17.2/src/handshake.rs /Users/air/.cargo/registry/src/github.com-1ecc6299db9ec823/tokio-tungstenite-0.17.2/src/stream.rs /Users/air/.cargo/registry/src/github.com-1ecc6299db9ec823/tokio-tungstenite-0.17.2/src/tls.rs
+
+/Users/air/Documents/programmingwork/blockchain/solana/rust-mint-nft/mint/target/debug/deps/tokio_tungstenite-2bee15d480d3a565.d: /Users/air/.cargo/registry/src/github.com-1ecc6299db9ec823/tokio-tungstenite-0.17.2/src/lib.rs /Users/air/.cargo/registry/src/github.com-1ecc6299db9ec823/tokio-tungstenite-0.17.2/src/compat.rs /Users/air/.cargo/registry/src/github.com-1ecc6299db9ec823/tokio-tungstenite-0.17.2/src/connect.rs /Users/air/.cargo/registry/src/github.com-1ecc6299db9ec823/tokio-tungstenite-0.17.2/src/handshake.rs /Users/air/.cargo/registry/src/github.com-1ecc6299db9ec823/tokio-tungstenite-0.17.2/src/stream.rs /Users/air/.cargo/registry/src/github.com-1ecc6299db9ec823/tokio-tungstenite-0.17.2/src/tls.rs
+
+/Users/air/.cargo/registry/src/github.com-1ecc6299db9ec823/tokio-tungstenite-0.17.2/src/lib.rs:
+/Users/air/.cargo/registry/src/github.com-1ecc6299db9ec823/tokio-tungstenite-0.17.2/src/compat.rs:
+/Users/air/.cargo/registry/src/github.com-1ecc6299db9ec823/tokio-tungstenite-0.17.2/src/connect.rs:
+/Users/air/.cargo/registry/src/github.com-1ecc6299db9ec823/tokio-tungstenite-0.17.2/src/handshake.rs:
+/Users/air/.cargo/registry/src/github.com-1ecc6299db9ec823/tokio-tungstenite-0.17.2/src/stream.rs:
+/Users/air/.cargo/registry/src/github.com-1ecc6299db9ec823/tokio-tungstenite-0.17.2/src/tls.rs:

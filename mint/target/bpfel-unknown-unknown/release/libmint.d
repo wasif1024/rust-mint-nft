@@ -1,0 +1,1 @@
+/Users/air/Documents/programmingwork/blockchain/solana/rust-mint-nft/mint/target/bpfel-unknown-unknown/release/libmint.rlib: /Users/air/Documents/programmingwork/blockchain/solana/rust-mint-nft/mint/src/lib.rs
